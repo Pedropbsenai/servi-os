@@ -71,7 +71,7 @@ body {
 }
 
 .debaixo {
-    background: url(imagem\img\floresta.jpg);
+    background: url('img\floresta.jpg');
     background-repeat: no-repeat;
     background-position: 0px;
     width: 100%;
